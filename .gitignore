@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data
+data/raw/
+data/intermediate/
+data/processed/
+data/metadata/
+
+# Outputs
+outputs/
+runs/
+wandb/
+mlruns/
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Large arrays / serialized objects
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.joblib
+
+# Optuna / databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
