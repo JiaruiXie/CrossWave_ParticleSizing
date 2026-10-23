@@ -1,4 +1,3 @@
-@'
 # CrossWave: Cross-Wavelength Knowledge Distillation for Reduced-Sensing Microscopy
 
 This repository contains the code for **CrossWave**, a cross-wavelength knowledge-distillation framework for reduced-sensing microscopy.
